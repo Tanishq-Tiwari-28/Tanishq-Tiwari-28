@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **Email: tanishq21496@iiit.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VTvFk7R2Y_7feJWhR5Jda-RYW9nxhfRg/view?usp=drive_link](https://drive.google.com/file/d/1VTvFk7R2Y_7feJWhR5Jda-RYW9nxhfRg/view?usp=drive_link)
-
 - ⚡ Fun fact **Nothing.**
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq-tiwari-28&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq-tiwari-28" /> </p>
