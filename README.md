@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishq Tiwari</h1>
-<h3 align="center">Computer Undergrad from IIITD</h3>
+<h3 align="center">Computer Science Undergrad from IIITD</h3>
 
 - 🔭 I’m currently working on [bOSS, a BUG BOUNTY website for open source software.](https://github.com/vens8/bOSS)
 
