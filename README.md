@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishq Tiwari</h1>
 <h3 align="center">Computer Undergrad from IIITD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq-tiwari-28&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq-tiwari-28" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq-tiwari-28" alt="tanishq-tiwari-28" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [bOSS, a BUG BOUNTY website for open source software.](https://github.com/vens8/bOSS)
 
 - 🤝 I’m looking for help with **Three js and blender**
@@ -16,6 +10,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VTvFk7R2Y_7feJWhR5Jda-RYW9nxhfRg/view?usp=drive_link](https://drive.google.com/file/d/1VTvFk7R2Y_7feJWhR5Jda-RYW9nxhfRg/view?usp=drive_link)
 
 - ⚡ Fun fact **Nothing.**
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq-tiwari-28&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq-tiwari-28" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq-tiwari-28" alt="tanishq-tiwari-28" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
