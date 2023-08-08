@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanishq tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanishq-tiwari-28b562233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/tanishq_tiwari_420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishq_tiwari-420" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tanishqtiwari_2021496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanishqtiwari_2021496" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanishqtiwari3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishqtiwari3010" height="30" width="40" /></a>
